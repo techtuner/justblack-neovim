@@ -32,3 +32,21 @@ colorscheme justblack
 vim.cmd([[colorscheme justblack]])
 ```
 
+## Screenshots
+<img src="./assets/css-code.png"  alt = "css code" height="700" width="100%" />
+<br>
+
+<img src="./assets/js-code.png"  alt = "css code" height="700" width="100%" />
+<br>
+
+<img src="./assets/lua-code.png"  alt = "css code" height="700" width="100%" />
+<br>
+
+<img src="./assets/html-code.png"  alt = "css code" height="700" width="100%" />
+<br>
+
+## Contributing
+To contribute to [Justblack Neovim](https://www.github.com/techtuner/justblack-neovim) make a pull request! 😊
+
+## License
+This repo is licensed under the [MIT LICENSE](./LICENSE)
